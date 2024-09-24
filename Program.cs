@@ -3,7 +3,7 @@
 namespace MyProgram
 {
 
-    class Car // remove Private
+    public class Car // remove Private
     {
         private string model;
         private int year;
