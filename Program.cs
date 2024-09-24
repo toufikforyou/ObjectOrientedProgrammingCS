@@ -7,9 +7,9 @@ namespace MyProgram
     {
         private string model;
         private int year;
-        private float price;
+        private int price; // int hbe because input int;
 
-        public Car(string modelName, int yearOfProduction, float carPrice) // public hbe;
+        public Car(string modelName, int yearOfProduction, int carPrice) // public hbe; and carPrice int hbe;
         {
             model = modelName; // ulta hbe
             year = yearOfProduction; // ulta hbe
@@ -28,7 +28,7 @@ namespace MyProgram
             set { year = value; } // setter hbe na and = value hbe
         }
 
-        public float PriceGetSet // int hbe  na float hbe
+        public int PriceGetSet // int hbe  na float hbe and float na hoye int hbe;
         {
             get { return price; } // getter hbe na
             set { price = value; } // setter hbe na and = value hbe
