@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSE OOP EXAMPLE", "CSE OOP EXAMPLE.csproj", "{4705949B-CD93-4B4E-986C-9D108889301D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4705949B-CD93-4B4E-986C-9D108889301D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4705949B-CD93-4B4E-986C-9D108889301D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4705949B-CD93-4B4E-986C-9D108889301D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4705949B-CD93-4B4E-986C-9D108889301D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C7F109E-3FC2-4E30-B600-6B05775E0C51}
+	EndGlobalSection
+EndGlobal
