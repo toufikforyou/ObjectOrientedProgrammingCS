@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Data.Common;
 
 namespace MyProgram
 {
@@ -47,7 +46,7 @@ namespace MyProgram
             Car car1 = new Car("Toyota", 2018, 25000); // new hbe;
             car1.DisplayDetails();
 
-            car1.price = 200;
+            car1.PriceGetSet = 200; // call setter function;
 
             car1.DisplayDetails();
         }
