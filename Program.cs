@@ -40,7 +40,10 @@ namespace MyProgram
             Console.WriteLine("Year:" + YearGetSet); // call get function 
             Console.WriteLine("Price:" + PriceGetSet); // call get function 
         }
+    }
 
+    public class Program // create a class for main method call automatically;
+    {
         public static void Main(string[] arg)
         {
             Car car1 = new Car("Toyota", 2018, 25000); // new hbe;
