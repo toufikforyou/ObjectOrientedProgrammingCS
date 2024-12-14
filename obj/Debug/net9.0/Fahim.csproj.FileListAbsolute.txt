@@ -1,0 +1,14 @@
+/Volumes/FILES/PROJECTS/UNIVERSITY/C#/Fahim/bin/Debug/net9.0/Fahim
+/Volumes/FILES/PROJECTS/UNIVERSITY/C#/Fahim/bin/Debug/net9.0/Fahim.deps.json
+/Volumes/FILES/PROJECTS/UNIVERSITY/C#/Fahim/bin/Debug/net9.0/Fahim.runtimeconfig.json
+/Volumes/FILES/PROJECTS/UNIVERSITY/C#/Fahim/bin/Debug/net9.0/Fahim.dll
+/Volumes/FILES/PROJECTS/UNIVERSITY/C#/Fahim/bin/Debug/net9.0/Fahim.pdb
+/Volumes/FILES/PROJECTS/UNIVERSITY/C#/Fahim/obj/Debug/net9.0/Fahim.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/FILES/PROJECTS/UNIVERSITY/C#/Fahim/obj/Debug/net9.0/Fahim.AssemblyInfoInputs.cache
+/Volumes/FILES/PROJECTS/UNIVERSITY/C#/Fahim/obj/Debug/net9.0/Fahim.AssemblyInfo.cs
+/Volumes/FILES/PROJECTS/UNIVERSITY/C#/Fahim/obj/Debug/net9.0/Fahim.csproj.CoreCompileInputs.cache
+/Volumes/FILES/PROJECTS/UNIVERSITY/C#/Fahim/obj/Debug/net9.0/Fahim.dll
+/Volumes/FILES/PROJECTS/UNIVERSITY/C#/Fahim/obj/Debug/net9.0/refint/Fahim.dll
+/Volumes/FILES/PROJECTS/UNIVERSITY/C#/Fahim/obj/Debug/net9.0/Fahim.pdb
+/Volumes/FILES/PROJECTS/UNIVERSITY/C#/Fahim/obj/Debug/net9.0/Fahim.genruntimeconfig.cache
+/Volumes/FILES/PROJECTS/UNIVERSITY/C#/Fahim/obj/Debug/net9.0/ref/Fahim.dll
