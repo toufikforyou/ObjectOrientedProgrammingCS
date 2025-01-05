@@ -1,4 +1,4 @@
-namespace MyProgram
+namespace IncapsulationProgram
 {
     class Person
     {
@@ -35,21 +35,21 @@ namespace MyProgram
         }
     }
 
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Person person = new Person("John", 25);
+    // class Program
+    // {
+    //     static void Main(string[] args)
+    //     {
+    //         Person person = new Person("John", 25);
 
-            Console.WriteLine(person.Name);
-            Console.WriteLine(person.Age);
+    //         Console.WriteLine(person.Name);
+    //         Console.WriteLine(person.Age);
 
-            person.Name = "Jane";
-            person.Age = 30;
+    //         person.Name = "Jane";
+    //         person.Age = 30;
 
-            person.DisplayInfo();
-        }
-    }
+    //         person.DisplayInfo();
+    //     }
+    // }
 
 
 }

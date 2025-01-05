@@ -1,6 +1,6 @@
 using System;
 
-namespace MyProgram
+namespace PhoneSystemProgram
 {
     class Phone
     {
@@ -48,20 +48,20 @@ namespace MyProgram
         }
     }
 
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Phone samsung = new Phone("Samsung", "Galaxy S23", 100999.99, "2025-01-01");
+    // class Program
+    // {
+    //     static void Main(string[] args)
+    //     {
+    //         Phone samsung = new Phone("Samsung", "Galaxy S23", 100999.99, "2025-01-01");
 
-            samsung.DisplayPhoneInfo();
-            Console.WriteLine();
+    //         samsung.DisplayPhoneInfo();
+    //         Console.WriteLine();
 
-            samsung.PhonePrice = 100899.99;
+    //         samsung.PhonePrice = 100899.99;
 
-            Console.WriteLine("Updated Phone Information:");
-            samsung.DisplayPhoneInfo();
-        }
-    }
+    //         Console.WriteLine("Updated Phone Information:");
+    //         samsung.DisplayPhoneInfo();
+    //     }
+    // }
 
 }

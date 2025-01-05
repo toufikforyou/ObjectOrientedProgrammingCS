@@ -1,4 +1,4 @@
-namespace MyProgram
+namespace IndentifyProgram
 {
     class Example
     {
@@ -6,22 +6,16 @@ namespace MyProgram
         private double c;
         private string str;
 
-        class Example
+        public Example(int a, double c, string str)
         {
-            public int a;
-            private double c;
-            private string str;
-            public Example(int a, double c, string str)
-            {
-                this.a = a;
-                this.c = c;
-                this.str = str;
-            }
-            public Example(int a, double c)
-            {
-                this.a = a;
-                this.c = c;
-            }
+            this.a = a;
+            this.c = c;
+            this.str = str;
+        }
+        public Example(int a, double c)
+        {
+            this.a = a;
+            this.c = c;
         }
 
         public string Str

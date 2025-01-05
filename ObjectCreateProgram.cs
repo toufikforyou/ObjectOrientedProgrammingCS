@@ -1,4 +1,4 @@
-namespace MyProgram
+namespace ObjectCreateProgram
 {
     class MyClass
     {
@@ -12,15 +12,15 @@ namespace MyProgram
         }
     }
 
-    class Program
-    {
-        public static Main()
-        {
-            MyClass obj = new MyClass(10, "Hello");
+    // class Program
+    // {
+    //     public static Main()
+    //     {
+    //         MyClass obj = new MyClass(10, "Hello");
 
-            Console.WriteLine(obj.x);  // Output: 10
-            Console.WriteLine(obj.w);  // Output: Hello
-        }
-    }
+    //         Console.WriteLine(obj.x);  // Output: 10
+    //         Console.WriteLine(obj.w);  // Output: Hello
+    //     }
+    // }
 
 }
